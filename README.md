@@ -12,3 +12,4 @@ This is the lined added after renaming branch from "branch1" to "branch1_1.1"
 
 # Heading 4
 This heading is for checking if sync works or not
+This line is written on RPi...
